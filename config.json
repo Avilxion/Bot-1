@@ -1,0 +1,12 @@
+{
+    "bot_description": "Licensy bot - easily manage expiration of roles with subscriptions!",
+    "default_prefix": ",",
+    "developer_log_channel_id": 869856129730105397,
+    "developers": {
+        "BrainDead": 197918569894379520
+    },
+    "maximum_unused_guild_licences": 10000,
+    "support_channel_invite": "https://discord.gg/trCYUkz",
+    "top_gg_api_key": "",
+    "token": "ODQ3MTg1NzE4OTkyMDQ0MDYz.YK6ZLw.TO0dAJxZEBm1-W7-zCGtfm1EBSE"
+}
